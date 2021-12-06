@@ -1,0 +1,135 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?fsco6u');
+  src:  url('fonts/icomoon.eot?fsco6u#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?fsco6u') format('truetype'),
+    url('fonts/icomoon.woff?fsco6u') format('woff'),
+    url('fonts/icomoon.svg?fsco6u#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-star:before {
+  content: "\f005";
+}
+.icon-star-o:before {
+  content: "\f006";
+}
+.icon-check:before {
+  content: "\f00c";
+}
+.icon-play-circle-o:before {
+  content: "\f01d";
+}
+.icon-check-circle-o:before {
+  content: "\f05d";
+}
+.icon-calendar:before {
+  content: "\f073";
+}
+.icon-random:before {
+  content: "\f074";
+}
+.icon-trophy:before {
+  content: "\f091";
+}
+.icon-twitter:before {
+  content: "\f099";
+}
+.icon-facebook:before {
+  content: "\f09a";
+}
+.icon-facebook-f:before {
+  content: "\f09a";
+}
+.icon-bullhorn:before {
+  content: "\f0a1";
+}
+.icon-globe:before {
+  content: "\f0ac";
+}
+.icon-money:before {
+  content: "\f0d6";
+}
+.icon-linkedin:before {
+  content: "\f0e1";
+}
+.icon-dashboard:before {
+  content: "\f0e4";
+}
+.icon-tachometer:before {
+  content: "\f0e4";
+}
+.icon-comments-o:before {
+  content: "\f0e6";
+}
+.icon-building-o:before {
+  content: "\f0f7";
+}
+.icon-angle-double-right:before {
+  content: "\f101";
+}
+.icon-angle-double-down:before {
+  content: "\f103";
+}
+.icon-laptop:before {
+  content: "\f109";
+}
+.icon-long-arrow-right:before {
+  content: "\f178";
+}
+.icon-server:before {
+  content: "\f233";
+}
+.icon-user-plus:before {
+  content: "\f234";
+}
+.icon-percent:before {
+  content: "\f295";
+}
+.icon-volume-control-phone:before {
+  content: "\f2a0";
+}
+.icon-user-o:before {
+  content: "\f2c0";
+}
+.icon-location:before {
+  content: "\e947";
+}
+.icon-clock:before {
+  content: "\e94e";
+}
+.icon-wrench:before {
+  content: "\e991";
+}
+.icon-stats-bars:before {
+  content: "\e99c";
+}
+.icon-shield:before {
+  content: "\e9b4";
+}
+.icon-clipboard:before {
+  content: "\e9b8";
+}
+.icon-embed2:before {
+  content: "\ea80";
+}
+.icon-youtube:before {
+  content: "\ea9d";
+}
